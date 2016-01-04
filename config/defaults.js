@@ -5,7 +5,7 @@ define({
     "appid": "",
     "webmap": "4db663dbf127440595b3cb0c5b2121fd",
     "form_layer": {
-        "id": ""
+        "id": "All"
     },
     "details": {
         "Title": "",
