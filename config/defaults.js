@@ -74,6 +74,6 @@ define({
             "url": null
         }]
     },
-    "bitlyLogin": "tomstork",
-    "bitlyKey": "Jamesbond01"
+    "bitlyLogin": "tstork",
+    "bitlyKey": "R_ceaaf1731ce147b883b35b7581a3ed78"
 });
