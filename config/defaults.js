@@ -6,9 +6,6 @@ define({
     "webmap": "8ca7682b6240416590dc21dcc120462c",
     "form_layer": {
         "id": "csv_738"
-    },
-    "form_layer":{
-        "id":"All"
     }
     "details": {
         "Title": "",
