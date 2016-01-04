@@ -3,7 +3,7 @@ define({
     //default web map, default app color theme and more. These values can be overwritten by template configuration settings
     //and url parameters.
     "appid": "",
-    "webmap": "0c5cb13c4fc54b28bb26a125221ed96f",
+    "webmap": "8ca7682b6240416590dc21dcc120462c",
     "form_layer": {
         "id": ""
     },
@@ -25,7 +25,7 @@ define({
     //Enter the url to your organizations bing maps key if you want to use bing basemaps
     "bingmapskey": "",
     //Defaults to arcgis.com. Set this value to your portal or organization host name.
-    "sharinghost": location.protocol + "//" + "www.arcgis.com",
+    "sharinghost": location.protocol + "//" + "www.tomstork.maps.arcgis.com/",
     "units": null,
     "useSmallHeader": false,
     "enableSharing": true,
