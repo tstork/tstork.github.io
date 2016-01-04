@@ -74,6 +74,6 @@ define({
             "url": null
         }]
     },
-    "bitlyLogin": "arcgis",
-    "bitlyKey": "R_b8a169f3a8b978b9697f64613bf1db6d"
+    "bitlyLogin": "tomstork",
+    "bitlyKey": "Jamesbond01"
 });
