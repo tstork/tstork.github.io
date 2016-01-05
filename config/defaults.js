@@ -8,9 +8,9 @@ define({
         "id": ""
     },
     "details": {
-        "Title": "Test Form",
-        "Logo": "http://www.reach-initiative.org/wp-content/uploads/2014/06/Logo_Front_Page.gif",
-        "Description": "This is a test"
+        "Title": "",
+        "Logo": "",
+        "Description": ""
     },
     "fields": {
     },
@@ -30,7 +30,7 @@ define({
     "useSmallHeader": false,
     "enableSharing": true,
     "defaultMapExtent": true,
-    "pushpinColor": "red",
+    "pushpinColor": "blue",
     "nextBasemap": "hybrid",
     "defaultBasemap": "topo",
     "selectedTitleField": {},
