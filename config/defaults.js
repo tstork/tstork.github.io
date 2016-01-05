@@ -5,12 +5,12 @@ define({
         "appid": "",
         "webmap": "fc085a824b9940ca898dba56cfe5c64d",
     "form_layer": {
-        "id": "edit_layer_4450"
+        "id": ""
     },
     "details": {
         "Title": "Test Form",
         "Logo": "http://www.reach-initiative.org/wp-content/uploads/2014/06/Logo_Front_Page.gif",
-        "Description": "This is a test form"
+        "Description": "This is a test"
     },
     "fields": {
     },
