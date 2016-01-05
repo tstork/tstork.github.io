@@ -8,9 +8,9 @@ define({
         "id": ""
     },
     "details": {
-        "Title": "",
+        "Title": "Test form",
         "Logo": "http://www.reach-initiative.org/wp-content/uploads/2014/06/Logo_Front_Page.gif",
-        "Description": ""
+        "Description": "Test form"
     },
     "fields": {
     },
