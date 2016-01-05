@@ -5,7 +5,7 @@ define({
         "appid": "",
         "webmap": "fc085a824b9940ca898dba56cfe5c64d",
     "form_layer": {
-        "id": "edit_layer_4450"
+        "id": ""
     },
     "details": {
         "Title": "Test Form",
@@ -27,7 +27,7 @@ define({
     //Defaults to arcgis.com. Set this value to your portal or organization host name.
     "sharinghost": location.protocol + "//" + "www.tomstork.maps.arcgis.com",
     "units": null,
-    "useSmallHeader": true,
+    "useSmallHeader": false,
     "enableSharing": true,
     "defaultMapExtent": true,
     "pushpinColor": "red",
