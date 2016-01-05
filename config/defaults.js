@@ -5,7 +5,7 @@ define({
         "appid": "",
         "webmap": "fc085a824b9940ca898dba56cfe5c64d",
     "form_layer": {
-        "id": ""
+        "id": "edit_layer_4450"
     },
     "details": {
         "Title": "Test Form",
