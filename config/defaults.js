@@ -39,7 +39,7 @@ define({
     "attachmentIsRequired": false,
     "attachmentLabel": "",
     "attachmentHelpText": "",
-    "showLayer": true,
+    "showLayer": false,
     "disableLogo": false,
     "enableBasemapToggle": false,
     "locate":false,
