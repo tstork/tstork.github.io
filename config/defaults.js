@@ -2,10 +2,10 @@ define({
     //Default configuration settings for the applciation. This is where you"ll define things like a bing maps key,
     //default web map, default app color theme and more. These values can be overwritten by template configuration settings
     //and url parameters.
-        "appid": 
-        "webmap": "fc085a824b9940ca898dba56cfe5c64d",
+        "appid": "a96f39cdc5454d7a8ca4534e71f82708",
+        "webmap": "",
     "form_layer": {
-        "id": "edit_layer_4450"
+        "id": "All"
     },
     "details": {
         "Title": "",
