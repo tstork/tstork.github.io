@@ -44,11 +44,11 @@ define({
     //Theme defines the background color of the title area and tool dialog
     //Color defines the text color for the title and details. Note that
     //both these values must be specified as hex colors.
-    "theme": "#EE5859",
-    "color": "black",
+    "theme": "#80ab00",
+    "color": "#fff",
     //Specify the tool icon color for the tools on the toolbar and the menu icon.
     // Valid values are white and black.
-    "icons": "black",
+    "icons": "white",
     "logo": null,
     //Set of tools that will be added to the toolbar
     "tools": [
@@ -94,7 +94,7 @@ define({
     //When true display a scalebar on the map
     "scalebar": false,
     //Specify a title for the application. If not provided the web map title is used.
-    "title": "Test Viewer",
+    "title": "",
     //Optionally specify some sub title text. 
     "subtitle":null,
     "level": null,
