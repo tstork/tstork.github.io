@@ -48,8 +48,8 @@ define({
     "color": "#EE5859",
     //Specify the tool icon color for the tools on the toolbar and the menu icon.
     // Valid values are white and black.
-    "icons": "grey",
-    "logo": "http://www.reach-initiative.org/wp-content/uploads/2014/06/Logo_Front_Page.gif",
+    "icons": "black",
+    "logo": null,
     //Set of tools that will be added to the toolbar
     "tools": [
         {"name": "legend", "enabled": true},
