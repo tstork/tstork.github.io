@@ -46,7 +46,7 @@ define({
   "search": true,
   "locationSearch": true,
   //When searchExtent is true the locator will prioritize results within the current map extent.
-  "searchExtent": false,
+  "searchExtent": true,
   "searchLayers":[{
       "id": "",
       "fields": []
