@@ -94,7 +94,7 @@ define({
     //When true display a scalebar on the map
     "scalebar": false,
     //Specify a title for the application. If not provided the web map title is used.
-    "title": "",
+    "title": "Test Viewer",
     //Optionally specify some sub title text. 
     "subtitle":null,
     "level": null,
